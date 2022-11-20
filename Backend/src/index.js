@@ -5,7 +5,6 @@ import mongoose from 'mongoose';
 
 import typeDefs from './schema/typedefs';
 import resolvers from './schema/resolvers';
-// import context from './schema/context';
 import { API_URL, PORT, MONGODB_URI } from './config';
 
 
